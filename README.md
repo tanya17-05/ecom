@@ -7,6 +7,9 @@ Backend 90% completed \
 ## Read readme of backend before starting any server
 <br/>
 
+### Setup enviornment
+    npm i
+
 ### Run development server
 
     npm run dev
